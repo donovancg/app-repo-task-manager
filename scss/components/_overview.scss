@@ -1,0 +1,56 @@
+.overview {
+
+    &__sheets {
+        text-align: center;
+    }
+
+    &__sheet {
+        text-align: center;
+        background-color: $color-grey-light-1;
+        display: inline-block;
+        padding: 1rem 2rem;
+        cursor: pointer;
+        margin: 1rem 2rem
+    }
+
+    &__preview {
+        height: 10rem;
+        margin-top: 1rem;
+        display: block;
+    }
+
+    &__button {
+        padding: 1rem 2rem;
+        background-color: $color-primary;
+        color: $color-white;
+        border: none;
+        transition: all 0.2s;
+        position: relative;
+        margin-top: 2rem;
+        display: inline-block;
+        font-size: 1.4rem;
+        color: $color-white !important;
+        text-decoration: none;
+
+        &:hover {
+            background-color: $color-primary-dark;
+        }
+
+        &:focus {
+            transform: translateY(.3rem);
+        }
+    }
+
+    &__table {
+        margin: auto;
+
+        & button {
+            margin-top: 0;
+            margin-left: -10rem;
+        }
+    }
+
+    &__td {
+        padding: 1rem;
+    }
+}

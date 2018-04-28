@@ -1,0 +1,39 @@
+.footer {
+    background-color: $color-grey-dark-3;
+    height: 30rem;
+    position: relative;
+
+    &__header {
+        position: absolute;
+        top: 5rem;
+        left: 5rem;
+        color: $color-white;
+    }
+
+
+    &__nav {
+        position: absolute;
+        // transform: translate(-50%, -50%);
+        top: 5rem;
+        right: 5rem;
+    }
+
+    &__li {
+        list-style-type: none;
+        display: inline-block;
+        padding: 0 .1rem;
+        margin: 0 2.9rem;
+
+        & a {
+            color: $color-white;
+            text-decoration: none;
+            transition: all .2s;
+            position: relative;
+
+            &:hover {
+                color: $color-grey-light-2;
+                transform: translateY(-2rem);
+            }
+        }
+    }
+}

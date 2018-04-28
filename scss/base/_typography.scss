@@ -1,0 +1,52 @@
+.heading-primary {
+    @include center;
+    color: $color-white;
+    font-weight: 100;
+    text-align: center;
+
+    &--main {
+        
+    }
+
+    &--sub {
+        display: block;
+        font-size: 2rem;
+        margin-top: 1rem;
+    }
+}
+
+.heading-secondary {
+    text-align: center;
+    font-weight: 100;
+    // margin: 2rem 0;
+    border-bottom: 1px solid $color-primary;
+    width: 55%;
+    margin: 1rem auto 1.6rem auto;
+    padding: 1rem 0 1.5rem 0;
+}
+
+.heading-tertiary {
+    text-align: center;
+    font-weight: 100;
+}
+
+a:link,
+a:visited {
+    color: $color-link-blue;
+}
+
+::selection {
+    background-color: $color-primary;
+    color: $color-white;
+}
+
+.error-primary {
+    text-align: center;
+    font-size: 2rem;
+    margin: 2rem;
+}
+
+.error-secondary {
+    text-align: center;
+    margin: 1rem;
+}

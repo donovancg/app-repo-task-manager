@@ -1,0 +1,65 @@
+.description {
+
+    
+    &__row {
+        padding: 3rem;
+
+        &:not(:last-child) {
+            // margin-bottom: 3rem;
+        }
+
+        &:nth-of-type(odd) {
+            &:first-of-type {
+                background-image: linear-gradient($color-white 0%, $color-grey-light-4 10%, $color-grey-light-4 70%, $color-grey-light-5 100%);
+                padding-top: 5rem;
+            }
+
+            &:not(:first-of-type) {
+                background-image: linear-gradient($color-grey-light-4 0%, $color-grey-light-4 70%, $color-grey-light-5 100%);
+            }
+            // background-color: $color-grey-light-1;
+            
+            
+        }
+
+        &:nth-of-type(even) {
+
+            &:not(:last-of-type) {
+                background-image: linear-gradient($color-grey-light-5 0%, $color-grey-light-5 70%, $color-grey-light-4 100%);
+            }
+
+            &:last-of-type {
+                background-color: $color-white;
+            }
+            // background-color: $color-grey-light-4;
+            
+        }
+    }
+
+    & h3 {
+        margin-bottom: 3rem;
+    }
+
+    &__img {
+        width: 100%;
+        opacity: 0;
+
+        &--right {
+            // animation-name: fadeInRight;
+            // animation-duration: 1s;
+            // animation-timing-function: ease-out;
+        }
+
+        &--left {
+            // animation-name: fadeInLeft;
+            // animation-duration: 1s;
+            // animation-timing-function: ease-out;
+        }
+    }
+
+    &__p {
+        width: 40%;
+        margin: 1rem auto;
+        text-align: center;
+    }
+}

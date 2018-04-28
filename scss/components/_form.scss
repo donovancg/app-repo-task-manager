@@ -1,0 +1,67 @@
+.form {
+
+    margin: auto;
+    text-align: center;
+
+    &__input {
+        padding: 1rem;
+        margin: 1rem;
+        margin-left: .5rem;
+        border-style: none;
+        border-bottom-style: solid;
+        border-color: $color-grey-light-2;
+        // font-family: inherit;
+        
+
+        &:focus {
+            transition: all .5s;
+            outline: none;
+            border-color: $color-primary;
+        }
+    }
+
+    &__button {
+        padding: 1rem 2rem;
+        margin: 1rem;
+    }
+
+    &__p {
+        font-size: 1.4rem;
+        margin-top: .75rem;
+    }
+
+    &__required {
+        color: $color-red;
+    }
+
+    &__textarea {
+        font-family: Arial, $default-font-family;
+        color: inherit;
+        font-size: 1.4rem;
+
+        padding: 1rem;
+        margin: 1rem;
+        margin-left: .5rem;
+        border-style: none;
+        border-bottom-style: solid;
+        border-color: $color-grey-light-2;
+        resize: none;
+        overflow: auto;
+        height: 15rem;
+        border-bottom-width: 3px;
+        
+
+        &:focus {
+            transition: all .5s;
+            outline: none;
+            border-color: $color-primary;
+        }
+    }
+
+    &__img {
+        width: auto;
+        margin: 2rem auto;
+        display: block;
+        height: 10rem;
+    }
+}
