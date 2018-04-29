@@ -29,8 +29,55 @@
         <section>
             <h2 class="heading-secondary">Jobs</h2>
             <div class="app">
-                <div class="app__item">
+                <div class="app__container">
+
+                    <div class="row">
+                        <div class="col-1-of-4">
+                            <div class="app__item">
+                                <h3 class="heading-tertiary">Backyard Spray</h3>
+                            </div>
+                        </div>
+                        <div class="col-1-of-4">
+                            <div class="app__item">
+                                <h3 class="heading-tertiary">Clean Gutters</h3>
+                            </div>
+                        </div>
+                        <div class="col-1-of-4">
+                            <div class="app__item">
+                                <h3 class="heading-tertiary">Pressure-wash house</h3>
+                            </div>
+                        </div>
+                        <div class="col-1-of-4">
+                            <div class="app__item">
+                                <h3 class="heading-tertiary">Dump run</h3>
+                            </div>
+                        </div>
+                    </div>
                     
+
+
+                    <!-- <div class="app__list">
+                        <div class="app__item">Backyard spray</div>
+                        <div class="app__item">Est. Time: 2 hours</div>
+                        <div class="app__item">Priority: Medium</div>
+                        <div class="app__item">Cost: </div>
+                        <div class="app__item">Materials: Weed Killer</div>
+                        <div class="app__item">Assigned to: </div>
+                        <div class="app__item">Comments</div>
+                        <div class="app__item"><a href="">Edit</a></div>
+                        <div class="app__item"><a href="">Delete</a></div>
+                    </div>
+                    <div class="app__list">
+                        <div class="app__item">Backyard spray</div>
+                        <div class="app__item">Est. Time: 2 hours</div>
+                        <div class="app__item">Priority: Medium</div>
+                        <div class="app__item">Cost: </div>
+                        <div class="app__item">Materials: Weed Killer</div>
+                        <div class="app__item">Assigned to: </div>
+                        <div class="app__item">Comments</div>
+                        <div class="app__item"><a href="">Edit</a></div>
+                        <div class="app__item"><a href="">Delete</a></div>
+                    </div> -->
                 </div>
             </div>
         </section>
