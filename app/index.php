@@ -54,263 +54,6 @@
                         </div>
                     </div>
 
-                    <div class="row">
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Backyard Spray</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Clean Gutters</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Pressure-wash house</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Dump run</h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Backyard Spray</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Clean Gutters</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Pressure-wash house</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Dump run</h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Backyard Spray</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Clean Gutters</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Pressure-wash house</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Dump run</h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Backyard Spray</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Clean Gutters</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Pressure-wash house</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Dump run</h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Backyard Spray</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Clean Gutters</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Pressure-wash house</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Dump run</h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Backyard Spray</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Clean Gutters</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Pressure-wash house</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Dump run</h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Backyard Spray</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Clean Gutters</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Pressure-wash house</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Dump run</h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Backyard Spray</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Clean Gutters</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Pressure-wash house</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Dump run</h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Backyard Spray</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Clean Gutters</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Pressure-wash house</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Dump run</h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Backyard Spray</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Clean Gutters</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Pressure-wash house</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Dump run</h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="row">
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Backyard Spray</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Clean Gutters</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Pressure-wash house</h3>
-                            </div>
-                        </div>
-                        <div class="col-1-of-4">
-                            <div class="app__item">
-                                <h3 class="heading-tertiary">Dump run</h3>
-                            </div>
-                        </div>
-                    </div>
-
-                    
-                    
-
-
                     <!-- <div class="app__list">
                         <div class="app__item">Backyard spray</div>
                         <div class="app__item">Est. Time: 2 hours</div>
@@ -347,5 +90,56 @@
             </ul>
         </nav>
     </footer>
+    <section class="section__popup">
+        <div class="popup--app">
+            <div class="popup--app__content">
+                <div class="popup--app__head">
+                    <h3 class="heading__tertiary">Backyard Spray</h3>
+                </div>
+
+                <div class="popup--app__body">
+                    <div class="row">
+                        <div class="col-2-of-3">
+                            <table class="popup--app__table">
+                                <tr class="popup--app__tr">
+                                    <td class="popup--app__td">Est Time: </td>
+                                    <td class="popup--app__td">2 Hours</td>
+                                </tr>
+                                <tr class="popup--app__tr">
+                                    <td class="popup--app__td">Priority: </td>
+                                    <td class="popup--app__td">Medium</td>
+                                </tr>
+                                <tr class="popup--app__tr">
+                                    <td class="popup--app__td">Cost: </td>
+                                    <td class="popup--app__td">$0</td>
+                                </tr>
+                                <tr class="popup--app__tr">
+                                    <td class="popup--app__td">Materials: </td>
+                                    <td class="popup--app__td">Weed Killer</td>
+                                </tr>
+                                <tr class="popup--app__tr">
+                                    <td class="popup--app__td">Assigned to: </td>
+                                    <td class="popup--app__td">No one</td>
+                                </tr>
+                            </table>
+                        </div>
+                        
+
+                        <div class="col-1-of-3">
+                            <div class="popup--app__comments">
+                                <p class="popup--app__heading">Comments</p>
+                                <p class="popup--app__comments">None</p>
+                            </div>
+                        </div>
+                        
+                    </div>
+                </div>
+                    
+                <div class="popup--app__footer">
+
+                </div>
+            </div>
+        </div>
+    </section>
 </body>
 </html>
