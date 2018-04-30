@@ -87,7 +87,8 @@ a:visited {
 
 .app__item {
   background-color: #eee;
-  padding: 1rem 2rem; }
+  padding: 1rem 2rem;
+  cursor: pointer; }
   .app__item:last-of-type {
     margin-bottom: 3rem; }
 
@@ -528,7 +529,10 @@ a:visited {
   width: 100vw;
   background-color: rgba(0, 0, 0, 0.6);
   font-weight: 300;
-  font-size: 1.5rem; }
+  font-size: 1.5rem;
+  opacity: 0;
+  display: none;
+  transition: opacity .5s; }
   .popup--app__content {
     width: 70%;
     background-color: #fefefe;
@@ -537,7 +541,11 @@ a:visited {
     transform: translate(-50%, -50%);
     top: 50%;
     left: 50%;
-    padding-bottom: 2rem; }
+    padding-bottom: 2rem;
+    display: none;
+    opacity: 0;
+    transform: scale(0.7);
+    transition: all .3s; }
   .popup--app__head {
     text-align: center;
     margin: 2rem; }

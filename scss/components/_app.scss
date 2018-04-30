@@ -3,6 +3,7 @@
     &__item {
         background-color: $color-grey-light-2;
         padding: 1rem 2rem;
+        cursor: pointer;
 
         &:last-of-type {
             margin-bottom: $gutter-vertical;

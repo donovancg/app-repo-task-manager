@@ -33,7 +33,7 @@
 
                     <div class="row">
                         <div class="col-1-of-4">
-                            <div class="app__item">
+                            <div class="app__item" onclick="showPopup('Backyard Spray')">
                                 <h3 class="heading-tertiary">Backyard Spray</h3>
                             </div>
                         </div>
@@ -98,7 +98,7 @@
                 </div>
 
                 <div class="popup--app__body">
-                    <span class="popup--app__close">&times;</span>
+                    <span class="popup--app__close" onclick="hidePopup()">&times;</span>
                     <div class="row">
                         <div class="col-1-of-3">
                             <table class="popup--app__table">
@@ -133,7 +133,7 @@
                         <div class="col-1-of-3">
                             <div class="popup--app__comments">
                                 <p class="popup--app__heading">Comments: </p>
-                                <p class="popup--app__comment">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
+                                <p class="popup--app__comment">None</p>
                             </div>
                         </div>
                         
@@ -146,5 +146,26 @@
             </div>
         </div>
     </section>
+    <script>
+        var popup = document.querySelector('.popup--app__content');
+        var popupBackground = document.querySelector('.popup--app');
+
+        function showPopup() {
+            popup.style.display = "block";
+            popup.style.opacity = "1";
+            popup.style.transform = "translate(-50%, -50%) scale(1)";
+            popupBackground.style.opacity = "1";
+            popupBackground.style.display = "block";
+        }
+
+        function hidePopup() {
+            popup.style.display = "none";
+            popup.style.opacity = "0";
+            popup.style.transform = "translate(-50%, -50%) scale(.7)";
+            popupBackground.style.opacity = "0";
+            popupBackground.style.display = "none";
+        }
+        
+    </script>
 </body>
 </html>
