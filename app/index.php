@@ -9,7 +9,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 
     <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400" rel="stylesheet">
     <link rel="stylesheet" href="../css/style.css">
 
     <title>Jobs &ndash; <?php echo $application_name; ?></title>
@@ -98,8 +98,9 @@
                 </div>
 
                 <div class="popup--app__body">
+                    <span class="popup--app__close">&times;</span>
                     <div class="row">
-                        <div class="col-2-of-3">
+                        <div class="col-1-of-3">
                             <table class="popup--app__table">
                                 <tr class="popup--app__tr">
                                     <td class="popup--app__td">Est Time: </td>
@@ -124,11 +125,15 @@
                             </table>
                         </div>
                         
+                        <div class="col-1-of-3">
+                            <img src="../images/Crossbow-Herbicide-2.5-Gallon-2015.jpg" alt="crossbow" class="popup--app__image">
+                            <p class="popup--app__image--caption">Weed Killer</p>
+                        </div>
 
                         <div class="col-1-of-3">
                             <div class="popup--app__comments">
-                                <p class="popup--app__heading">Comments</p>
-                                <p class="popup--app__comments">None</p>
+                                <p class="popup--app__heading">Comments: </p>
+                                <p class="popup--app__comment">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.</p>
                             </div>
                         </div>
                         

@@ -526,16 +526,45 @@ a:visited {
   left: 0;
   height: 100vh;
   width: 100vw;
-  background-color: rgba(0, 0, 0, 0.8); }
+  background-color: rgba(0, 0, 0, 0.6);
+  font-weight: 300;
+  font-size: 1.5rem; }
   .popup--app__content {
     width: 70%;
-    height: 50rem;
-    background-color: #fff;
+    background-color: #fefefe;
     z-index: 9999;
     position: absolute;
     transform: translate(-50%, -50%);
     top: 50%;
-    left: 50%; }
+    left: 50%;
+    padding-bottom: 2rem; }
+  .popup--app__head {
+    text-align: center;
+    margin: 2rem; }
+  .popup--app__table, .popup--app__tr, .popup--app__td {
+    border-collapse: collapse; }
+  .popup--app__td {
+    padding: 1rem 2rem;
+    border: 1px solid #eee; }
+  .popup--app__heading {
+    font-size: 1.7rem;
+    margin-bottom: .5rem; }
+  .popup--app__comment {
+    padding-left: 1rem;
+    font-weight: 400; }
+  .popup--app__close {
+    position: absolute;
+    transform: translateX(-100%);
+    top: .5rem;
+    right: .2rem;
+    font-size: 2rem;
+    cursor: pointer; }
+  .popup--app__image {
+    width: 90%;
+    margin: auto; }
+    .popup--app__image--caption {
+      font-style: italic;
+      margin-left: 4rem; }
 
 .sidebar {
   padding-left: 2rem;

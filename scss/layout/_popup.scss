@@ -4,19 +4,62 @@
     left: 0;
     height: 100vh;
     width: 100vw;
-    background-color: rgba($color-black, .8);
+    background-color: rgba($color-black, .6);
+    font-weight: 300;
+    font-size: 1.5rem;
 
     &__content {
         width: 70%;
-        height: 50rem;
-        background-color: $color-white;
+        background-color: $color-grey-light-5;
         z-index: 9999;
         position: absolute;
         transform: translate(-50%, -50%);
         top: 50%;
         left: 50%;
-
+        padding-bottom: 2rem;
     }
 
-    
+    &__head {
+        text-align: center;
+        margin: 2rem;
+    }
+
+    &__table, &__tr, &__td {
+        border-collapse: collapse;
+    }
+
+    &__td {
+        padding: 1rem 2rem;
+        border: 1px solid $color-grey-light-2;
+    }
+
+    &__heading {
+        font-size: 1.7rem;
+        margin-bottom: .5rem;
+    }
+
+    &__comment {
+        padding-left: 1rem;
+        font-weight: 400;
+    }
+
+    &__close {
+        position: absolute;
+        transform: translateX(-100%);
+        top: .5rem;
+        right: .2rem;
+        font-size: 2rem;
+        cursor: pointer;
+    }
+
+    &__image {
+        width: 90%;
+        margin: auto;
+
+        &--caption {
+            font-style: italic;
+            margin-left: 4rem;
+        }
+    }
+
 }
